@@ -46,11 +46,11 @@ Unordered list:
   Bottom
   
 
-  Wake up and smell the coffee[^1]
+  Wakeupandsmellthecoffee[^1]
   slow[^2]
 
   ---
-  Face the reality[^1]
+  Facethereality[^1]
   fast[^2]
 
   
