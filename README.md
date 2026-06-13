@@ -44,7 +44,7 @@ Unordered list:
   Wake up and smell the coffee[^1]
 
   ---
-  [^1]Face the reality
+  [^1]:Face the reality
 
   
 
