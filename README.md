@@ -44,14 +44,13 @@ Unordered list:
   
   ---
   Bottom
+
+  Wake up and smell the coffee[^1]
+
+  ---
+  [^1]Face the reality
+
   
-
-  Hello[^1]
-  slow[^2]
-
-  -----
-  wishing[^1]
-  fast[^2]
 
   
   
