@@ -43,7 +43,7 @@ Unordered list:
 
   Wake up and smell the coffee[^1]
 
-  - [ ] option1
+  - [X] option1
   - [ ] option2
   
 
