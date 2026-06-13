@@ -10,7 +10,7 @@
 
 ***AWS INTERNSHIP***
 
-~~Internship~~ 1st Internship
+~~Internship~~ --> 1st Internship
 
 [Google](https://www.google.com/)
 
