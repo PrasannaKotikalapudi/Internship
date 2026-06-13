@@ -27,5 +27,19 @@ This is the "git commands" markdown script
 ![image](https://static.vecteezy.com/system/resources/thumbnails/057/068/323/small/single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image-photo.jpg)
 
 
+Ordered list:
+
+1.first
+2.second
+
+Unordered list:
+
++ first
++ second
+- third
+- fouth
+
+
+
 Summer Online Internship Repository
 
