@@ -46,11 +46,11 @@ Unordered list:
   Bottom
   
 
-  Wakeupandsmellthecoffee[^1]
+  Hello[^1]
   slow[^2]
 
-  ---
-  Facethereality[^1]
+  -----
+  wishing[^1]
   fast[^2]
 
   
