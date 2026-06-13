@@ -47,8 +47,7 @@ Unordered list:
   - [ ] option2
 
   Name|year|Branch|
-  
-  ----
+  ---|---|---|
   
   prasanna|2nd|CSE|
 
