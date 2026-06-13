@@ -16,6 +16,8 @@
 
 <ins>learning stage</ins>
 
+(a+b)<sup>2</sup>
+
 Prasanna <sup>STUDENT</sup>
 
 > Note: This is markdown script
