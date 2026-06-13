@@ -24,5 +24,13 @@ Prasanna <sup>STUDENT</sup>
 
 This is the "git commands" markdown script
 
+'''
+a=1
+b=3
+print(a+b)
+'''
+
+
+
 Summer Online Internship Repository
 
