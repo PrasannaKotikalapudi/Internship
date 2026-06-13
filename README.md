@@ -39,11 +39,7 @@ Unordered list:
 + second
 - third
 - fouth
-
-  Top
   
-  ---
-  Bottom
 
   Wake up and smell the coffee[^1]
 
