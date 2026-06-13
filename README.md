@@ -45,9 +45,14 @@ Unordered list:
 
   - [X] option1
   - [ ] option2
+
+  Name|year|Branch|
+  
+  ----
+  
+  prasanna|2nd|CSE|
   
 
-  ---
   [^1]:Face the reality
   
 
